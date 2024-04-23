@@ -1,0 +1,37 @@
+body {
+  background-color: lightblue;
+  font-family: sans-serif, cursive;
+  font-size: 12pt;
+  color: darkblue;
+}
+
+p {
+  text-indent: 1cm;
+  text-align: justify;
+  margin: 5pt;
+  border: 2px solid gray;
+  background-color: rosybrown;
+  color: #EEE;
+
+  font-size: 1.2em;
+  font-weight: 900;
+  font-family: "Trebuchet MS";
+}
+
+
+h1 {
+  text-align: center;
+  letter-spacing: 25px;
+}
+
+
+
+h2 {
+  font-size: 20pt;
+  font-family: 'sans-serif', cursive;
+  text-transform: capitalize;
+  font-style: italic;
+  font-weight: normal;
+  font-variant: small-caps;
+  font-stretch: expanded;
+}
